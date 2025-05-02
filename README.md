@@ -3,6 +3,9 @@
 Run 
 - npm i
 - npm run dev
+# Project Details
+
+This is basic react project which showing single page user CV
 
 # React + TypeScript + Vite
 
